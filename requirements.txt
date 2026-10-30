@@ -1,0 +1,2 @@
+# only needed for USB mode (target "usb")
+epson-usb>=0.1.2

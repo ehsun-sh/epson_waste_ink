@@ -1,0 +1,4 @@
+# EEPROM backups contain the printer's serial number
+backup_*.json
+__pycache__/
+*.pyc
