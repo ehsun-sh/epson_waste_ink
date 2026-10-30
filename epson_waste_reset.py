@@ -1,4 +1,5 @@
 #!/usr/bin/env python3
+# SPDX-License-Identifier: EUPL-1.2
 """
 Epson L1250 waste ink pad counter tool (over the network or USB).
 

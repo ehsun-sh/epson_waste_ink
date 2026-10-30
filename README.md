@@ -67,3 +67,7 @@ The program has been tested against simulated printers, not yet on a real L1250.
 The protocol (EPSON-CTRL commands over SNMP and over USB/D4) and the L3250-family EEPROM map come from the open-source
 [epson_print_conf](https://github.com/Ircama/epson_print_conf) project (EUPL-1.2). USB mode uses the
 [epson-usb](https://pypi.org/project/epson-usb/) package (MIT).
+
+## License
+Copyright (c) 2026 Ehsan Shahmohammadi. Licensed under the
+[European Union Public Licence v1.2](LICENSE) (EUPL-1.2).
